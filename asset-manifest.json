@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/zClock/static/css/main.6e264488.css",
-    "main.js": "/zClock/static/js/main.86947eaa.js",
+    "main.js": "/zClock/static/js/main.ebe74243.js",
     "index.html": "/zClock/index.html",
     "main.6e264488.css.map": "/zClock/static/css/main.6e264488.css.map",
-    "main.86947eaa.js.map": "/zClock/static/js/main.86947eaa.js.map"
+    "main.ebe74243.js.map": "/zClock/static/js/main.ebe74243.js.map"
   },
   "entrypoints": [
     "static/css/main.6e264488.css",
-    "static/js/main.86947eaa.js"
+    "static/js/main.ebe74243.js"
   ]
 }
