@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zClock/static/css/main.8daec362.css",
+    "main.js": "/zClock/static/js/main.c4ddacf6.js",
+    "index.html": "/zClock/index.html",
+    "main.8daec362.css.map": "/zClock/static/css/main.8daec362.css.map",
+    "main.c4ddacf6.js.map": "/zClock/static/js/main.c4ddacf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8daec362.css",
+    "static/js/main.c4ddacf6.js"
+  ]
+}
